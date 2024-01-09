@@ -1,2 +1,3 @@
 # GEOManager
-GEOManager is a manager for managing and supporting GEO products
+ArcGIS Pro Add-in extension
+It's a manager for managing and supporting GEO products
